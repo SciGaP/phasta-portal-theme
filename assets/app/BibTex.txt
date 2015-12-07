@@ -1,0 +1,36 @@
+@article{shen2014science,
+  title={E-science infrastructures for molecular modeling and parametrization},
+  author={Shen, Ning and Fan, Ye and Pamidighantam, Sudhakar},
+  journal={Journal of Computational Science},
+  volume={5},
+  number={4},
+  pages={576--589},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{dooley2006proposal,
+  title={From proposal to production: Lessons learned developing the computational chemistry grid cyberinfrastructure},
+  author={Dooley, Rion and Milfeld, Kent and Guiang, Chona and Pamidighantam, Sudhakar and Allen, Gabrielle},
+  journal={Journal of Grid Computing},
+  volume={4},
+  number={2},
+  pages={195--208},
+  year={2006},
+  publisher={Springer}
+}
+
+@inproceedings{dooley2005computational,
+  title={Computational chemistry grid: production cyberinfrastructure for computational chemistry},
+  author={Dooley, R and Allen, G and Pamidighantam, S},
+  booktitle={Proceedings of the 13th Annual Mardi Gras Conference},
+  year={2005}
+}
+
+@inproceedings{milfeld2005cluster,
+  title={Cluster computing through an application-oriented computational chemistry Grid},
+  author={Milfeld, Kent and Guiang, Chona and Pamidighantam, Sudhakar and Giuliani, Jim},
+  booktitle={Proceedings of the 2005 Linux Clusters: The HPC Revolution},
+  year={2005}
+}
+
