@@ -5,28 +5,21 @@
 	<div class="team col-md-3 text-center">
 		<span class="glyphicon glyphicon-user" style="font-size:8em;"></span>
 		<h3>Principal Investigator</h3>
-		<h4>Dr. Sudhakar Pamidighantam</h4>
+		<h4>Cameron Smith</h4>
 		<p>
 			<strong>Contact:</strong>
-			<a href="mailto:pamidigs@iu.edu">pamidigs@iu.edu</a> 
+			<a href="mailto:smithc11@rpi.edu">smithc11@rpi.edu</a>
 		</p>
 	</div>
 	<div class="col-md-9">
 		<br/>
 		<p>
-			The SEAGrid science gateway is led by Dr. Sudhakar Pamidighantam and powered by the NSF-funded <a target="_blank" href="http://scigap.org">SciGaP</a> project. This gateway is an agile platform suitable for both research and teaching in science and engineering disciplines. 	
+			The PHASTA science gateway is led by Cameron Smith and powered by the NSF-funded <a target="_blank" href="http://scigap.org">SciGaP</a> project. This gateway is an agile platform suitable for both research and teaching in science and engineering disciplines.
 		</p>
 		<p>
 		<span style="font-weight: bold;">Bio: </span> 
-			Dr. Pamidighantam is a senior member of the Science Gateways Group in Research Technologies division at Indiana University. Dr. Pamidighantam had been a senior research scientist at NCSA at the University of Illinois at Urbana-Champaign supporting computational chemistry and science gateways development in support of molecular sciences faculty.  He serves XSEDE organization as an ECSS consultant and conducts research in computational chemistry.  See <a target="_blank" href="https://scholar.google.com/citations?user=xlNkBCQAAAAJ&hl=en&oi=ao">here</a> for Dr. Pamidighantam’s Google Scholar profile.
-		<p>
-			<strong>Usage:</strong> 
-			SEAGrid has been in operation since 2005 and serves more than 600 scientists and students under 320 projects. Over this time, SEAGrid has supported and enabled more than 120 publications, 50 conference presentations, at least 13 graduate MS and Ph.D. theses. Since April 2015, SEAGrid has served close to 11M XD SUs to support almost 25,000 jobs. 
-		</p>	
-		<p>
-			<strong>Support:</strong>
-			 SEAGrid currently supported by NSF Grant <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1339774" target="_blank">#1339774</a>.  Previous NSF support includes awards The SEAGrid  gateway  is a production community cyberinfrastructure resource  developed under the NSF Middleware Initiative (NMI: Deployment) grant  and supported by additional advanced support through XSEDE ASTA and ECSS program activities. An OGCE [5] project funded by NSF enabled the SEAGrid gateway to adapt sustainable middleware. 		
-		</p>
+			Cameron Smith is a Computational Scientist in the Scientific Computation Research Center at Rensselaer Polytechnic Institute. See <a target="_blank" href="http://www.scorec.rpi.edu/~cwsmith/">here</a> for Cameron's profile.
+
 		<div class="cite-area breathing-space">
 			<h3>Cite:</h3>
 			Citing SEAGrid in academic papers helps us show impact. If you use SEAGrid in your research please help by including the following citation information and acknowledgement in your paper.
