@@ -5,22 +5,22 @@
 <div class="col-md-12 new-collaborators text-center">
     <div class="col-md-offset-2 col-md-2">
     	<a href="http://www.iu.edu/" target="_blank">
-        <img width="100%" src="{{ URL::to('/') }}/../themes/{{Session::get('theme')}}/assets/img/iu-logo.png"/>
+        <img width="100%" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/iu-logo.png"/>
     	</a>
     </div>
 	<div class="col-md-2">
     	<a href="http://airavata.apache.org/" target="_blank">
-		<img width="100%" src="{{URL::to('/')}}/../themes/{{Session::get('theme')}}/assets/img/powered-by-apache-airavata.png">
+		<img width="100%" src="{{URL::to('/')}}/themes/{{Session::get('theme')}}/assets/img/powered-by-apache-airavata.png">
 		</a>
 	</div>
     <div class="col-md-2">
     	<a href="https://www.xsede.org/" target="_blank">
-        <img width="100%" src="{{ URL::to('/') }}/../themes/{{Session::get('theme')}}/assets/img/powered-by-xsede.gif">
+        <img width="100%" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/powered-by-xsede.gif">
     	</a>
     </div>
 	<div class="col-md-2">
 		<a href="http://www.nsf.gov/" target="_blank">
-		<img width="45%" src="{{URL::to('/')}}/../themes/{{Session::get('theme')}}/assets/img/nsf-logo.gif">
+		<img width="45%" src="{{URL::to('/')}}/themes/{{Session::get('theme')}}/assets/img/nsf-logo.gif">
 		</a>
 	</div>
 </div>

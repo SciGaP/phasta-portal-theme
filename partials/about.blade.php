@@ -29,7 +29,7 @@
 			<p> (c) R. Dooley, G. Allen, and S. Pamidighantam. "Computational Chemistry Grid: Production Cyberinfrastructure for Computational Chemistry". Proceedings of the 13th Annual Mardi Gras Conference, Baton Rouge, LA, Feb. 2005, pg 83. </p>
 			<p> (d) K. Milfeld, C. Guiang, S. Pamidighantam, J. Giuliani. Cluster Computing through an Application-oriented Computational Chemistry Grid. Proceedings of the 2005 Linux Clusters: The HPC Revolution, Apr. 2005. </p>
 			<p> (e) This work used the Extreme Science and Engineering Discovery Environment (XSEDE), which is supported by National Science Foundation grant number OCI-1053575.</p>
-	 		<a target="_blank" href="{{URL::to('/')}}/../themes/{{Session::get('theme')}}/assets/app/BibTex.txt">Get BibTex</a>
+	 		<a target="_blank" href="{{URL::to('/')}}/themes/{{Session::get('theme')}}/assets/app/BibTex.txt">Get BibTex</a>
 		</div>
 	</div>
 
