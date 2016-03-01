@@ -25,14 +25,6 @@
                         <a href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="https://seagrid.org/jnlp-prod/gridchem.jnlp">Download Desktop App</a>
-                    </li>
-                <!--
-                    <li>
-                        <a class="page-scroll" href="https://seagrid.org/jnlp/seagrid.jnlp">Download Desktop App</a>
-                    </li>
-                -->
-                    <li>
                         <a class="page-scroll" href="{{URL::to('/')}}/pages/documentation">Documentation</a>
                     </li>
                     <!--
