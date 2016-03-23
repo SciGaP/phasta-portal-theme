@@ -22,7 +22,8 @@
 
 		<div class="cite-area breathing-space">
 			<h3>Cite:</h3>
-			Citing PHASTA in academic papers helps us show impact. If you use PHASTA in your research please help by including the following citation information and acknowledgement in your paper.
+			<h4>Citing PHASTA in academic papers helps us show impact. If you use PHASTA in your research please help by including the following citation information and acknowledgement in your paper:</h4>
+			<p></p>
 			<p>Whiting, Christian H., and Kenneth E. Jansen. "A stabilized finite element method for the incompressible Navier-Stokes equations using a hierarchical basis." International Journal for Numerical Methods in Fluids 35.1 (2001): 93-116.</p>
 		</div>
 	</div>
