@@ -18,7 +18,7 @@
 	</p>
 	<hr/>
 	<div class="col-md-12 well">
-		 For a full list of current PHASTA supported applications and computing resources, see here<https://github.com/PHASTA/phasta>.
+		 For a full list of current PHASTA supported applications and computing resources, see <https://github.com/PHASTA/phasta>.
 	</div>
 </div>
 
