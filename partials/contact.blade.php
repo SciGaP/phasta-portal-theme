@@ -8,14 +8,6 @@
 			You can contact PHASTA developers by sending an email to:<a href="mail:to:smithc11@rpi.edu"><img width="100%" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/distorted.png"></a>
 			</h3>
 			<br/><br/>
-			Or 
-			<br/><br/>
-			<div class="col-md-12">
-				<span class="glyphicon glyphicon-edit" style="font-size:6em;"></span>
-			</div>
-			<h3 class="col-md-12">
-				You can create a <span id="serviceDeskHelp">JIRA ticket</span> by signing in <a href="http://scigap.atlassian.net" target="_blank">here</a>.
-			</h3>
 		</div>
 	</div>
 </div>
