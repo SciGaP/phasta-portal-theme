@@ -9,7 +9,7 @@
     	</a>
     </div>
 	<div class="col-md-2">
-    	<a href="http://airavata.apache.org/" target="_blank">
+	    <a href="http://airavata.apache.org/" target="_blank">
 		<img width="100%" src="{{URL::to('/')}}/themes/{{Session::get('theme')}}/assets/img/powered-by-apache-airavata.png">
 		</a>
 	</div>
@@ -23,6 +23,22 @@
 		<img width="45%" src="{{URL::to('/')}}/themes/{{Session::get('theme')}}/assets/img/nsf-logo.gif">
 		</a>
 	</div>
+    <div class="col-md-2">
+    	<a href="http://cci.rpi.edu/" target="_blank">
+        <img width="100%" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/CCI_2color.png">
+    	</a>
+    </div>
+	<div class="col-md-2">
+		<a href="http://www.rpi.edu/" target="_blank">
+		<img width="45%" src="{{URL::to('/')}}/themes/{{Session::get('theme')}}/assets/img/RPIlogo.jpg">
+		</a>
+	</div>
+    <div class="col-md-2">
+    	<a href="http://www.colorado.edu/" target="_blank">
+        <img width="100%" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/CU_logo.png">
+    	</a>
+    </div>
+
 </div>
 
 
