@@ -3,7 +3,7 @@
 <br/>
 <hr class="separation-line blue-bg"/>
 <div class="col-md-12 new-collaborators text-center">
-    <div class="col-md-offset-2 col-md-2">
+    <div class="col-md-2">
     	<a href="http://www.iu.edu/" target="_blank">
         <img width="100%" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/iu-logo.png"/>
     	</a>
@@ -30,7 +30,7 @@
     </div>
 	<div class="col-md-2">
 		<a href="http://www.rpi.edu/" target="_blank">
-		<img width="45%" src="{{URL::to('/')}}/themes/{{Session::get('theme')}}/assets/img/RPIlogo.jpg">
+		<img width="100%" src="{{URL::to('/')}}/themes/{{Session::get('theme')}}/assets/img/RPIlogo.jpg">
 		</a>
 	</div>
     <div class="col-md-2">
