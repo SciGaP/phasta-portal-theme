@@ -1,4 +1,4 @@
-<title>SEAGrid</title>
+<title>PHASTA</title>
 
 <link media="all" type="text/css" rel="stylesheet" href="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/css/style.css"/>
 
@@ -14,7 +14,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand page-scroll" href="{{ URL::to('/') }}/home">
-                    <img class="seagrid-logo" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/logo.png"/>
+                    <img class="seagrid-logo" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/phasta-logo.png"/>
                 </a>
             </div>
 
