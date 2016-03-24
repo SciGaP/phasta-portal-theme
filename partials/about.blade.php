@@ -14,7 +14,7 @@
 	<div class="col-md-9">
 		<br/>
 		<p>
-			The PHASTA science gateway is led by Cameron Smith and powered by the NSF-funded <a target="_blank" href="http://scigap.org">SciGaP</a> project. The gateway is built with Aapche Airavata and is an agile platform suitable for both research and teaching in science and engineering disciplines.
+			The PHASTA science gateway is led by Cameron Smith and powered by the NSF-funded <a target="_blank" href="http://scigap.org">SciGaP</a> project. The gateway is built with <a target="_blank" href="http://airavata.apache.org/">Apache Airavata</a> and is an agile platform suitable for both research and teaching in science and engineering disciplines.
 		</p>
 		<p>
 		<span style="font-weight: bold;">Bio: </span> 
