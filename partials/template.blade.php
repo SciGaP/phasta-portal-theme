@@ -12,7 +12,7 @@
 </div>
 
 <div class="col-md-12 text-center breathing-space seagrid-info">
-	<h1><img class="phasta-logo" src="{{URL::to('/')}}/themes/{{Session::get('theme')}}/assets/img/phasta-logo.png"/> Features</h1><br/>
+	<h1>Features</h1><br/>
 	<p class="font-1-5">
 		The Parallel Hierarchic Adaptive Stabilized Transient Analysis, PHASTA, software supports modeling compressible or incompressible, laminar or turbulent, steady or unsteady flows in 3D, using unstructured grids. The PHASTA portal enables researchers to easily execute workflows on the TACC Stampede and RPI CCI AMOS systems.
 	</p>
