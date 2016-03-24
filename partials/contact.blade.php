@@ -5,7 +5,7 @@
 				<span class="glyphicon glyphicon-envelope" style="font-size:6em;"></span>
 			</div>
 			<h3 class="col-md-12">
-			You can contact PHASTA developers by sending an email to:<a href="mail:to:smithc11@rpi.edu"><img width="100%" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/distorted.png"></a>
+			You can contact PHASTA developers by sending an email to:<img width="100%" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/distorted.png">
 			</h3>
 			<br/><br/>
 		</div>
