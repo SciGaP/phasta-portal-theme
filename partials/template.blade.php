@@ -23,7 +23,8 @@
 </div>
 
 <div class="col-md-12 text-center seagrid-workflow darker-blue-bg">
-	<h1><img class="phasta-logo" src="{{URL::to('/')}}/themes/{{Session::get('theme')}}/assets/img/phasta-logo.png"/> PHASTA Portal Architecture</h1><br/>
+	<h1><img class="phasta-logo" src="{{URL::to('/')}}/themes/{{Session::get('theme')}}/assets/img/phasta-logo.png"/></h1><br/>
+	<h1>Portal Architecture</h1><br/>
 	<div class="video-space">
 		<img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/phasta-workflow.png"/>
 	</div>
