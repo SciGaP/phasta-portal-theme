@@ -7,8 +7,8 @@
 		<h3>Principal Investigator</h3>
 		<h4>Cameron Smith</h4>
 		<p>
-			<strong>Contact:</strong>
-			<a href="mailto:smithc11@rpi.edu">smithc11@rpi.edu</a>
+                        <strong>Contact:</strong>
+                        <img width="20%" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/distorted.png">
 		</p>
 	</div>
 	<div class="col-md-9">
