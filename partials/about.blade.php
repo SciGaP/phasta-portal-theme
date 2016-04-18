@@ -8,7 +8,7 @@
 		<h4>Cameron Smith</h4>
 		<p>
                         <strong>Contact:</strong>
-                        <img width="20%" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/distorted.png">
+                        <img width="50%" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/distorted.png">
 		</p>
 	</div>
 	<div class="col-md-9">
