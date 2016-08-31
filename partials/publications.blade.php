@@ -38,6 +38,10 @@
        <h3> 2007 </h3>
        <li>Shephard, M. S., et al.  &nbsp;<strong>"Parallel adaptive simulations on unstructured meshes." </strong> &nbsp; <em>Journal of physics: conference series. Vol. 78. No. 1. IOP Publishing, 2007.</em></li>
          <hr class="separation-line blue-bg"/>
+
+       <h3> 2005 </h3>
+       <li>Sunitha Nagrath, et al.  &nbsp;<strong>"Computation of incompressible bubble dynamics with a stabilized finite element level set method." </strong> &nbsp; <em>Computer Methods in Applied Mechanics and Engineering. Volume 194, Issues 42–44, 15 October 2005, Pages 4565-4587, ISSN 0045-7825, http://dx.doi.org/10.1016/j.cma.2004.11.012. 2005.</em></li>
+         <hr class="separation-line blue-bg"/>
        
        <h3> 2001 </h3>
        
