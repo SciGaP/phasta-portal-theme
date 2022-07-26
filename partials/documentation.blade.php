@@ -16,6 +16,6 @@
 
 
 <h3 class="text-center">Additional Documentation</h3>
-    <p>See <a target="_blank" href="https://wiki.scorec.rpi.edu/wiki/PHASTA_Documentation">here</a> for course notes and tutorial videos and papers.</p>
+    <p>See <a target="_blank" href="https://fluid.colorado.edu/wiki/index.php/PHASTA">the PHASTA wiki</a> and <a target="_blank" href="https://fluid.colorado.edu/wiki/index.php/Chef:_Mesh_Partitioning">the Chef pre-processor wiki</a>for course notes, tutorial videos, papers, and additional references.</p>
 
 </div>
